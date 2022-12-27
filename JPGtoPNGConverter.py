@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 if __name__ == '__main__':
-    # grab the first and second argument for usage: JPGtoPNGConverter "Pokemon\" "new\"
+    # grab the first and second argument for usage: JPGtoPNGConverter "Pokemon\" "new\" UPDATE
     pokemon_folder = sys.argv[1]
     new_folder = sys.argv[2]
 
